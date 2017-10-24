@@ -1,0 +1,56 @@
+[33mcommit 97948eb96fbb6eb619ba35c74a1f0812b0b2f1fc[m
+Merge: a8c3cee 28eadd8
+Author: Sergiy1794 <sergiykov94@gmail.com>
+Date:   Mon Oct 23 23:36:28 2017 +0300
+
+    Merge pull request #4 from Sergiy1794/iss53
+    
+    Iss53
+
+[33mcommit 28eadd8178f9b4508a4d26c23b74e78ee411d67b[m
+Author: Sergiy <sergiykov94@gmail.com>
+Date:   Mon Oct 23 23:34:41 2017 +0300
+
+    finish job
+
+[33mcommit a8c3ceeed2ddfa10de2f13bc1ca7d50275525712[m
+Merge: fe8ea38 becf245
+Author: Sergiy1794 <sergiykov94@gmail.com>
+Date:   Mon Oct 23 23:31:23 2017 +0300
+
+    Merge pull request #3 from Sergiy1794/hotfix
+    
+    Hotfix my_first.py
+
+[33mcommit becf2456640b82bf0227e23fcfaa4a8dfbfa4f98[m
+Author: Sergiy <sergiykov94@gmail.com>
+Date:   Mon Oct 23 23:26:06 2017 +0300
+
+    Hotfix my_first.py
+
+[33mcommit 2e64f693434a94f29c1d57cf83d31f2f3dae2137[m
+Author: Sergiy <sergiykov94@gmail.com>
+Date:   Mon Oct 23 23:18:16 2017 +0300
+
+    Begin function write
+
+[33mcommit fe8ea38e16b321c341d4a06d84e3c507c7f6e89f[m
+Merge: c72a33b f2367c2
+Author: Sergiy1794 <sergiykov94@gmail.com>
+Date:   Mon Oct 23 22:28:34 2017 +0300
+
+    Merge pull request #2 from Sergiy1794/my_first_branch
+    
+    change my_first.py
+
+[33mcommit f2367c2e082f40eae663ffcc8b308865f03cfa1c[m
+Author: Sergiy <sergiykov94@gmail.com>
+Date:   Mon Oct 23 22:11:19 2017 +0300
+
+    change my_first.py
+
+[33mcommit c72a33bd847935e0420ff2d0eff0a8c8d85ae02d[m
+Author: OEM Configuration (temporary user) <sergiykov94@gmail.com>
+Date:   Tue Mar 7 22:42:01 2017 +0200
+
+    Add new file
