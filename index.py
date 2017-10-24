@@ -1,5 +1,5 @@
 def go():
-	print('work')
+	print('newproject')
 
 if __name__== '__main__':
 	go()
