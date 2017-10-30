@@ -1,5 +1,5 @@
 def go():
-	print('new recover')
+	print('hotfix')
 
 if __name__== '__main__':
 	go()
