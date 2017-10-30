@@ -1,5 +1,5 @@
 def go():
-	print('work')
+	print('new issue53')
 
 if __name__== '__main__':
 	go()
