@@ -1,5 +1,5 @@
 def go():
-	print('newproject')
+	print('new recover')
 
 if __name__== '__main__':
 	go()
