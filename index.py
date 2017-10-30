@@ -1,5 +1,5 @@
 def go():
-	print('fix issue')
+	print('Fix sergiy')
 
 if __name__== '__main__':
 	go()
